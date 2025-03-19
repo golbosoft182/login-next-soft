@@ -23,18 +23,11 @@ A modern, secure JavaScript-based login system that replaces a legacy JSP implem
 
 ### Installation
 
-
 # Install dependencies:
 npm install
 
-
-# Start the server:
-npm start
-
-
 # Open your browser and navigate to:
 npm start
-
 
 # Logon with the following credentials:
 username: admin
