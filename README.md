@@ -23,19 +23,19 @@ A modern, secure JavaScript-based login system that replaces a legacy JSP implem
 
 ### Installation
 
-```bash
+
 # Install dependencies:
 npm install
 
-```bash
+
 # Start the server:
 npm start
 
-```bash
+
 # Open your browser and navigate to:
 npm start
 
-```bash
+
 # Logon with the following credentials:
 username: admin
 password: 123456
